@@ -1931,6 +1931,7 @@ body {
 
 .slider-images-product__slider {
   width: 100%;
+  position: relative;
 }
 
 .slider-images-product__slide {

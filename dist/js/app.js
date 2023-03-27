@@ -1134,10 +1134,10 @@
                     }
                 }), 0);
                 formValidate.formClean(form);
-                formLogging(`Форму відправлено!`);
+                formLogging(`Форма отправлена!`);
             }
             function formLogging(message) {
-                FLS(`[Форми]: ${message}`);
+                FLS(`[Формы]: ${message}`);
             }
         }
         function formRating() {
